@@ -11,14 +11,18 @@ Date: 9 September 2020
 
 This repository contains B2-TF and Tesopaco datasets associated with Smith et al. 2020 (Nature Plants), comprising the following files:
 
-# Biosphere 2 Tropical Forest Biome (B2-TF) dataset
+## Biosphere 2 Tropical Forest Biome (B2-TF) dataset
 B2 tropical forest dataset README.docx
+
 b2tf_V1.csv
+
 b2tf_V2.csv
 
-# Tesopaco dry forest dataset:
+## Tesopaco dry forest dataset:
 Tescopaco dry forest dataset README.docx
+
 tesopaco_2006_V1.csv
+
 tesopaco_2006_V2.csv
 
 The version 2 (V2) csv files are the subset of the datasets used in the paper analyses, except that only rows over the site-specific saturating radiation value were included (see Methods, Smith et al. 2020 for details).
